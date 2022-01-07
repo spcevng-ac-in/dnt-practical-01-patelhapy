@@ -1,0 +1,5 @@
+F:\DNT\DemoConsole\DemoConsole\bin\Release\DemoConsole.exe
+F:\DNT\DemoConsole\DemoConsole\bin\Release\DemoConsole.pdb
+F:\DNT\DemoConsole\DemoConsole\obj\x86\Release\DemoConsole.exe
+F:\DNT\DemoConsole\DemoConsole\obj\x86\Release\DemoConsole.pdb
+F:\DNT\DemoConsole\DemoConsole\obj\x86\Release\DemoConsole.csprojResolveAssemblyReference.cache

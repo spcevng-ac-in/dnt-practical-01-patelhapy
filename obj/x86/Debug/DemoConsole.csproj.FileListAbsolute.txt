@@ -1,0 +1,4 @@
+F:\DNT\DemoConsole\DemoConsole\bin\Debug\DemoConsole.exe
+F:\DNT\DemoConsole\DemoConsole\bin\Debug\DemoConsole.pdb
+F:\DNT\DemoConsole\DemoConsole\obj\x86\Debug\DemoConsole.exe
+F:\DNT\DemoConsole\DemoConsole\obj\x86\Debug\DemoConsole.pdb
